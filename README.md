@@ -32,4 +32,4 @@ https://github.com/makotoTommy/test 　← アクセス
 
 ↓
 
-マージリクエスト
+(プルリクエスト)
