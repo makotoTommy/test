@@ -1,4 +1,4 @@
-# Testです。
+## Testリポジトリです
 
 https://github.com/makotoTommy/test 　← アクセス
 
@@ -8,11 +8,19 @@ https://github.com/makotoTommy/test 　← アクセス
 
 ↓
 
-クローン
+クローン or プル
 
 ↓
 
-ローカルで編集
+(新規ブランチ作成)
+
+↓
+
+(マージ)
+
+↓
+
+修正
 
 ↓
 
@@ -21,3 +29,7 @@ https://github.com/makotoTommy/test 　← アクセス
 ↓
 
 プッシュ
+
+↓
+
+(プルリクエスト)
